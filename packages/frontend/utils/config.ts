@@ -1,4 +1,4 @@
-const API_PRODUCTION_URL = 'http://localhost:4000';
+const API_PRODUCTION_URL = 'https://api.getorca.org';
 const API_DEV_URL = 'http://localhost:4000';
 
 export const Config = {
